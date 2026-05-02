@@ -1,16 +1,111 @@
-# zenbook_android
+ 
+# 📱 ZenBook — Social Media Android App
 
-A new Flutter project.
+ZenBook Android is a Flutter-based mobile application connected to the ZenBook Django backend. It provides a full social media experience with AI-powered content moderation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🚀 Server Configuration
+![Server](screenshots/server.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔐 Login Page
+![Login](screenshots/login.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📋 Sidebar Menu
+![Sidebar](screenshots/sidebar.png)
+
+### 👤 Profile Page
+![Profile](screenshots/profile.png)
+
+### 🏠 Home Feed
+![Home](screenshots/home.png)
+
+### 👥 Groups List
+![Groups](screenshots/groups.png)
+
+### 💬 Group Chat
+![Group Chat](screenshots/groupchat.png)
+
+### 🤖 AI Comment Detection
+![Comments](screenshots/comments.png)
+
+---
+
+## 🚀 Features
+
+- 🚀 Server IP Configuration to connect to Django backend
+- 👤 User Registration & Login
+- 📝 Create & View Posts (Text & Image)
+- 💬 Comments with AI Toxic Detection
+- 👍 Like Posts
+- 👫 Friends System
+- 💌 Private Chat
+- 👥 Group Chat with Audio Messages
+- 🔔 Notifications
+- 👤 View & Edit Profile
+- 🤖 AI Warning shown on toxic comments
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Framework | Flutter |
+| Language | Dart |
+| Backend | Django REST API |
+| Platform | Android |
+
+---
+
+## ⚙️ How to Run Locally
+
+### Prerequisites
+- Flutter SDK
+- Android Studio
+- Django backend running locally
+
+### Steps
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/justin-0/zenbook-android.git
+cd zenbook-android
+```
+
+**2. Install dependencies**
+```bash
+flutter pub get
+```
+
+**3. Run the app**
+```bash
+flutter run
+```
+
+**4. Enter server IP**
+
+When app opens → enter your local IP address (e.g. `192.168.1.x`) to connect to Django backend
+
+---
+
+## 🌐 Backend Repository
+
+The Django web backend repository is available here:
+👉 [zenbook-web](https://github.com/justin-0/zenbook-web)
+
+---
+
+## 👨‍💻 Developer
+
+**Justin**
+- 🎓 BCA Graduate
+- 💼 1 Year Experience as Junior Software Developer
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
