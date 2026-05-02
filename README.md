@@ -8,29 +8,28 @@ ZenBook Android is a Flutter-based mobile application connected to the ZenBook D
 ## 📸 Screenshots
 
 ### 🚀 Server Configuration
-![Server](screenshots/server.jpeg)
+<img src="screenshots/server.jpeg" width="300"/>
 
 ### 🔐 Login Page
-![Login](screenshots/login.jpeg)
+<img src="screenshots/login.jpeg" width="300"/>
 
 ### 📋 Sidebar Menu
-![Sidebar](screenshots/sidebar.jpeg)
+<img src="screenshots/sidebar.jpeg" width="300"/>
 
 ### 👤 Profile Page
-![Profile](screenshots/profile.jpeg)
+<img src="screenshots/profile.jpeg" width="300"/>
 
 ### 🏠 Home Feed
-![Home](screenshots/home.jpeg)
+<img src="screenshots/home.jpeg" width="300"/>
 
 ### 👥 Groups List
-![Groups](screenshots/groups.jpeg)
+<img src="screenshots/groups.jpeg" width="300"/>
 
 ### 💬 Group Chat
-![Group Chat](screenshots/groupchat.jpeg)
+<img src="screenshots/groupchat.jpeg" width="300"/>
 
 ### 🤖 AI Comment Detection
-![Comments](screenshots/comments.jpeg)
-
+<img src="screenshots/comments.jpeg" width="300"/>
 ---
 
 ## 🚀 Features
