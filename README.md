@@ -7,29 +7,18 @@ ZenBook Android is a Flutter-based mobile application connected to the ZenBook D
 
 ## 📸 Screenshots
 
-### 🚀 Server Configuration
-<img src="screenshots/server.jpeg" width="300"/>
+## 📸 Screenshots
 
-### 🔐 Login Page
-<img src="screenshots/login.jpeg" width="300"/>
-
-### 📋 Sidebar Menu
-<img src="screenshots/sidebar.jpeg" width="300"/>
-
-### 👤 Profile Page
-<img src="screenshots/profile.jpeg" width="300"/>
-
-### 🏠 Home Feed
-<img src="screenshots/home.jpeg" width="300"/>
-
-### 👥 Groups List
-<img src="screenshots/groups.jpeg" width="300"/>
-
-### 💬 Group Chat
-<img src="screenshots/groupchat.jpeg" width="300"/>
-
-### 🤖 AI Comment Detection
-<img src="screenshots/comments.jpeg" width="300"/>
+| | |
+|---|---|
+| **🚀 Server Configuration** | **🔐 Login Page** |
+| <img src="screenshots/server.jpeg" width="300"/> | <img src="screenshots/login.jpeg" width="300"/> |
+| **📋 Sidebar Menu** | **👤 Profile Page** |
+| <img src="screenshots/sidebar.jpeg" width="300"/> | <img src="screenshots/profile.jpeg" width="300"/> |
+| **🏠 Home Feed** | **👥 Groups List** |
+| <img src="screenshots/home.jpeg" width="300"/> | <img src="screenshots/groups.jpeg" width="300"/> |
+| **💬 Group Chat** | **🤖 AI Comment Detection** |
+| <img src="screenshots/groupchat.jpeg" width="300"/> | <img src="screenshots/comments.jpeg" width="300"/> |
 ---
 
 ## 🚀 Features
